@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/thevietofficial-coder"><img src="https://img.shields.io/badge/GitHub-thevietofficial--coder-070910?style=flat-square&logo=github&logoColor=22D3EE" alt="GitHub profile" /></a>
+  <a href="https://github.com/Victor-VSF"><img src="https://img.shields.io/badge/GitHub-Victor--VSF-070910?style=flat-square&logo=github&logoColor=22D3EE" alt="GitHub profile" /></a>
   <img src="https://img.shields.io/badge/Open_to-Collaboration_%2F_Opportunities-070910?style=flat-square&logo=target&logoColor=22D3EE" alt="Open to AI, ML, and Generative AI collaboration" />
 </p>
 
@@ -58,15 +58,15 @@ DQN agent for CartPole-v1 with the replay buffer, target network, and TD-target 
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thevietofficial-coder&show_icons=true&hide_border=true&count_private=true&bg_color=070910&title_color=22D3EE&text_color=E2E8F0&icon_color=22D3EE" alt="Bùi Hoàng Việt's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevietofficial-coder&layout=compact&hide_border=true&bg_color=070910&title_color=22D3EE&text_color=E2E8F0" alt="Bùi Hoàng Việt's most used languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Victor-VSF&show_icons=true&hide_border=true&count_private=true&bg_color=070910&title_color=22D3EE&text_color=E2E8F0&icon_color=22D3EE" alt="Bùi Hoàng Việt's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-VSF&layout=compact&hide_border=true&bg_color=070910&title_color=22D3EE&text_color=E2E8F0" alt="Bùi Hoàng Việt's most used languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevietofficial-coder&hide_border=true&background=070910&stroke=22D3EE&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&currStreakNum=F8FAFC&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B" alt="Bùi Hoàng Việt's GitHub streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-VSF&hide_border=true&background=070910&stroke=22D3EE&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&currStreakNum=F8FAFC&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B" alt="Bùi Hoàng Việt's GitHub streak" width="100%" />
 </p>
 
-Explore my [public repositories](https://github.com/thevietofficial-coder?tab=repositories) and [recent public activity](https://github.com/thevietofficial-coder?tab=overview).
+Explore my [public repositories](https://github.com/Victor-VSF?tab=repositories) and [recent public activity](https://github.com/Victor-VSF?tab=overview).
 
 ## Resume / CV
 
@@ -81,7 +81,7 @@ I'm open to internships, collaboration, and practical AI/ML/Generative AI projec
 <p>
   <a href="mailto:thevietofficial@gmail.com"><img src="https://img.shields.io/badge/Email-thevietofficial%40gmail.com-070910?style=flat-square&logo=gmail&logoColor=22D3EE" alt="Email Bùi Hoàng Việt" /></a>
   <a href="https://www.linkedin.com/in/buihoangviet-ai/"><img src="https://img.shields.io/badge/LinkedIn-buihoangviet--ai-070910?style=flat-square&logo=linkedin&logoColor=22D3EE" alt="LinkedIn Bùi Hoàng Việt" /></a>
-  <a href="https://github.com/thevietofficial-coder"><img src="https://img.shields.io/badge/GitHub-thevietofficial--coder-070910?style=flat-square&logo=github&logoColor=22D3EE" alt="GitHub thevietofficial-coder" /></a>
+  <a href="https://github.com/Victor-VSF"><img src="https://img.shields.io/badge/GitHub-Victor--VSF-070910?style=flat-square&logo=github&logoColor=22D3EE" alt="GitHub Victor-VSF" /></a>
 </p>
 
 <details>

@@ -79,7 +79,7 @@ def frame(index: int) -> Image.Image:
     draw.line((scanner, 201, scanner, 223), fill=(103, 232, 249), width=2)
     draw.text((82, 203), "RAG  •  LLMs  •  VISION", font=text_font(12), fill=(203, 213, 225))
 
-    draw.text((820, 258), "thevietofficial-coder", font=text_font(12), fill=(148, 163, 184))
+    draw.text((820, 258), "Victor-VSF", font=text_font(12), fill=(148, 163, 184))
 
     return base.convert("RGB")
 
