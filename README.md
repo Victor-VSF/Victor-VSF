@@ -18,9 +18,9 @@
 
 ## About me
 
-I'm **Bùi Hoàng Việt**, building practical AI applications with a focus on **LLMs, Retrieval-Augmented Generation (RAG), and Computer Vision**.
+I'm **Victor**. I focus on researching, building, and deploying AI solutions to solve real-world problems, with a strong commitment to proactive learning and diving deep into the core fundamentals of technology. 
 
-I'm currently training as an AI Engineer through **VinUni's AI20K program (Cohort 4)**, working hands-on with **Deep Learning, NLP, LLMs, AI Agents, and MLOps**, and I care about turning AI ideas into real, working applications rather than isolated experiments.
+My goal is to cultivate a solid technical foundation, advance my capabilities in designing and deploying AI systems, and progressively build practical, high-impact AI products.
 
 ## Now
 
@@ -35,20 +35,6 @@ I'm currently training as an AI Engineer through **VinUni's AI20K program (Cohor
 <img src="assets/toolkit-cards/toolkit-languages-web.gif?v=3" alt="Languages and web skills appearing one by one: C++, Java, JavaScript, Next.js, WordPress, and Streamlit" width="100%" />
 
 <img src="assets/toolkit-cards/toolkit-tools-hardware.gif?v=3" alt="Tools, design and hardware skills appearing one by one: Git, GitHub, Photoshop, Canva, Raspberry Pi, Arduino, ROS2, and pytest" width="100%" />
-
-## Featured projects
-
-**[Autonomous Vehicle Perception System](https://github.com/thevietofficial-coder/autonomous-vehicle-lane-traffic-sign-recognition)**
-Lane-and-sign perception stack for a self-driving RC platform: YOLOv8/v11 traffic-sign detection and OpenCV lane tracking feed a PID controller that drives an Arduino over serial, all orchestrated with ROS2.
-`OpenCV` `YOLOv8` `ROS2` `Arduino` `PID Control`
-
-**[Plant Disease Detector](https://github.com/thevietofficial-coder/plant-disease-detector)**
-ResNet18 transfer-learning classifier across 38 plant leaf disease classes from the PlantVillage dataset, with Grad-CAM explainability so predictions can be visually verified, shipped as an interactive Streamlit app.
-`PyTorch` `ResNet18` `Grad-CAM` `Streamlit`
-
-**[Reinforcement Learning Agent](https://github.com/thevietofficial-coder/reinforcement-learning-agent)**
-DQN agent for CartPole-v1 with the replay buffer, target network, and TD-target updates implemented from scratch instead of relying on a framework like Stable-Baselines3, backed by a pytest suite and a Streamlit demo.
-`Gymnasium` `Keras` `Streamlit` `pytest`
 
 ## Certifications
 
@@ -71,7 +57,7 @@ Explore my [public repositories](https://github.com/Victor-VSF?tab=repositories)
 ## Resume / CV
 
 <p>
-  <a href="resume/Bui-Hoang-Viet-CV.pdf"><img src="https://img.shields.io/badge/View_CV-Open-070910?style=for-the-badge&logo=readme&logoColor=22D3EE" alt="View Bùi Hoàng Việt's CV" /></a>
+  <a href="resume/BuiHoangViet_CV.pdf"><img src="https://img.shields.io/badge/View_CV-Open-070910?style=for-the-badge&logo=readme&logoColor=22D3EE" alt="View Bùi Hoàng Việt's CV" /></a>
 </p>
 
 ## Let's connect
